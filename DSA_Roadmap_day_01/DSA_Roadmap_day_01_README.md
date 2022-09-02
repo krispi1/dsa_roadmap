@@ -8,10 +8,10 @@ Big shout out to [Ashish Gupta](https://bit.ly/3TEDjBt) for this wonderful DSA c
 
 To establish some context, let us first define a few terms:<br>
 
-An ***Algorithm*** is a finite, systematic set of instructions executed in a specified order to arrive at a desired result.
-A ***Data Structure*** is a well crafted construct or container for storing, retrieving, organizing, and processing data. 
-***Time Complexity*** is the duration taken by an algorithm to execute all its instructions.
-***Space Complexity*** measures the amount of memory (auxiliary space + input space) consumed by an algorithm to execute.<br>
+* An ***Algorithm*** is a finite, systematic set of instructions executed in a specified order to arrive at a desired result.
+* A ***Data Structure*** is a well crafted construct or container for storing, retrieving, organizing, and processing data. 
+* ***Time Complexity*** is the duration taken by an algorithm to execute all its instructions.
+* ***Space Complexity*** measures the amount of memory (auxiliary space + input space) consumed by an algorithm to execute.<br>
 
 ***The Big O Notation***
 This is a method for analysing the cost of an algorithm. Please refer to the article in #2 of Resources 👇 below to explore the Big O Notation in-depth. When determining the tradeoffs to consider in algorithm design, always give more priority to time complexity over the space complexity of the algorithm when thinking about optimization. <br> 
