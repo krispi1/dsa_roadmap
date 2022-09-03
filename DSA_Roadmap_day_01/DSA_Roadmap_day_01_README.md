@@ -24,8 +24,8 @@ Image credits: [Big-O Cheat Sheet](https://bit.ly/2KacZxD)
 
 From the Big-O Complexity Chart above, you'll see the key up top that goes from "horrible" to "excellent" and it represents the relevant performance of the algorithms that fall in each of the different categories.
 
-**From the image above, the steeper the slope, the slower the algorithms in that category**. Some categories of classifying algorithms that you are likely to come across are outlined and defined in the following image:
-![Big O Notation Graph](../images/algorithm_categories.webp)
+**From the image above, the steeper the slope, the slower the algorithms in that category**. Some categories of classifying algorithms that you are likely to come across are outlined and defined in the following image:<br>
+![Big O Notation Graph](../images/algorithm_categories.webp)<br>
 -- <small>Types or categories of algorithms ranked by speed [from best to worst].</small>
 Image credits: [From a post on Quora](https://bit.ly/3CR7rDK)
 
@@ -33,7 +33,7 @@ While you are here, make sure to research more on these:
 * Big-O Notation - worst case asymptotic notation, represents the ceiling of growth for a given function, i.e. the asymptotic upper bound. This is the best stress test for your algorithms to expose them to their worst case scenarios.
 * Big Omega (Ω) Notation - best case scenario i.e. asymptotic lower bounds.
 * Big Theta (Θ) Notation - average case.
-![Big O Notation Graph](../images/Worst%20Case%20Analysis.jfif)
+![Big O Notation Graph](../images/Worst%20Case%20Analysis.jfif)<br>
 -- <small>Runtime analysis of an algorithm</small>
 Image credits: [From a post on Quora](https://bit.ly/3TIjLMO)
 <br>
