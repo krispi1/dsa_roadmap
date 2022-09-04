@@ -13,7 +13,7 @@ To establish some context, let us first define a few terms:<br>
 * ***Time Complexity*** is the duration taken by an algorithm to execute all its instructions.
 * ***Space Complexity*** measures the amount of memory (auxiliary space + input space) consumed by an algorithm to execute.<br>
 
-***The Big O Notation***
+***The Big O Notation***<br>
 This is a method for analysing the cost of an algorithm. Please refer to the article in #2 of Resources 👇 below to explore the Big O Notation in-depth. When determining the tradeoffs to consider in algorithm design, always give more priority to time complexity over the space complexity of the algorithm when thinking about optimization. <br> 
 
 The image below addresses the big scalability question; ***How will an algorithm perform as the size of its input(s) increases?***
@@ -24,15 +24,15 @@ Image credits: [Big-O Cheat Sheet](https://bit.ly/2KacZxD)
 
 From the Big-O Complexity Chart above, you'll see the key up top that goes from "horrible" to "excellent" and it represents the relevant performance of the algorithms that fall in each of the different categories.
 
-**From the image above, the steeper the slope, the slower the algorithms in that category**. Some categories of classifying algorithms that you are likely to come across are outlined and defined in the following image:<br>
+**Also to note; the steeper the slope, the slower the algorithms in that category**. Some categories of classifying algorithms that you are likely to come across are outlined and defined in the following image:<br>
 ![Big O Notation Graph](../images/algorithm_categories.webp)<br>
 -- <small>Types or categories of algorithms ranked by speed [from best to worst].</small>
 Image credits: [From a post on Quora](https://bit.ly/3CR7rDK)
 
 While you are here, make sure to research more on these:
-* Big-O Notation - worst case asymptotic notation, represents the ceiling of growth for a given function, i.e. the asymptotic upper bound. This is the best stress test for your algorithms to expose them to their worst case scenarios.
-* Big Omega (Ω) Notation - best case scenario i.e. asymptotic lower bounds.
-* Big Theta (Θ) Notation - average case.
+* Big-O Notation i.e. O(n) - worst case asymptotic notation, represents the ceiling of growth for a given function, i.e. the asymptotic upper bound. This is the best stress test for your algorithms to expose them to their worst case scenarios.
+* Big Theta Notation i.e  Θ(n) - average case.
+* Big Omega Notation i.e  Ω(n) - best case scenario i.e. asymptotic lower bounds.<br>
 ![Big O Notation Graph](../images/Worst%20Case%20Analysis.jfif)<br>
 -- <small>Runtime analysis of an algorithm</small>
 Image credits: [From a post on Quora](https://bit.ly/3TIjLMO)
